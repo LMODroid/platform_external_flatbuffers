@@ -124,6 +124,7 @@ cc_library {
         "//apex_available:platform",
         "com.android.bt",
         "com.android.extservices",
+        "com.android.ondevicepersonalization",
     ],
     min_sdk_version: "30",
 }
